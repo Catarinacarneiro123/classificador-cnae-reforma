@@ -95,6 +95,11 @@ Atualize a página do repositório no navegador e confira se aparecem:
 
 ## 8. Fluxo de manutenção (o "revisar quando mudar")
 
+**Se você prefere não digitar comandos de Git**, veja
+[`docs/GUIA_GIT_SIMPLES.md`](docs/GUIA_GIT_SIMPLES.md) — tem um
+arquivo (`atualizar-github.bat`) que faz tudo com um duplo-clique, e
+também a opção de usar o GitHub Desktop (programa com botões).
+
 Sempre que:
 
 - **sair uma nova Nota Técnica/Informe Técnico** alterando cClassTrib ou
