@@ -1,0 +1,11 @@
+# cTribMun — Olinda/PE (código IBGE 2609600)
+# Situação: mantém sistema próprio, integrado ao layout da NFS-e Nacional
+# desde 22/12/2025.
+# ATENÇÃO: segundo relato de provedor de emissão, atualmente só o campo
+# NBS deve ser preenchido na seção "Reforma Tributária" da nota emitida
+# para Olinda — preencher cTribMun/CST/cClassTrib pode causar erro de
+# validação no provedor da prefeitura. Reconfirme antes de automatizar.
+# Ver docs/MUNICIPIOS_REGIAO_METROPOLITANA.md para detalhes.
+#
+# Layout: ctribmun;descricao;ctribnac_relacionado;fonte
+ctribmun;descricao;ctribnac_relacionado;fonte

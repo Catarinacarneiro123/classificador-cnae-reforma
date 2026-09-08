@@ -1,0 +1,8 @@
+# cTribMun — Recife/PE (código IBGE 2611606)
+# Situação: aderiu ao Emissor Nacional de NFS-e (Portaria SEFIN 12/2026).
+# Lista de serviços ancorada no art. 102 do CTMR (Lei Municipal 15.563/1991).
+# Ver docs/MUNICIPIOS_REGIAO_METROPOLITANA.md para detalhes e como obter
+# o código de cada serviço.
+#
+# Layout: ctribmun;descricao;ctribnac_relacionado;item_ctmr;fonte
+ctribmun;descricao;ctribnac_relacionado;item_ctmr;fonte

@@ -1,0 +1,79 @@
+divisao;descricao_divisao;setor_reforma;observacao_reforma
+01;Agricultura, pecuária e serviços relacionados;agropecuario_atencao;Produtor rural e insumos agropecuários podem ter redução de 60% ou alíquota zero conforme lista de produtos (Anexo de insumos/produtos agropecuários da LC 214/2025). Depende do produto, não só do CNAE.
+02;Produção florestal;agropecuario_atencao;Mesma observação da divisão 01.
+03;Pesca e aquicultura;agropecuario_atencao;Mesma observação da divisão 01.
+05;Extração de carvão mineral;padrao;Sem tratamento diferenciado identificado por CNAE; verificar produto.
+06;Extração de petróleo e gás natural;combustiveis_regime_especifico;Combustíveis têm regime específico de tributação monofásica (IBS/CBS) e Imposto Seletivo.
+07;Extração de minerais metálicos;padrao;
+08;Extração de minerais não metálicos;padrao;
+09;Atividades de apoio à extração de minerais;padrao;
+10;Fabricação de produtos alimentícios;cesta_basica_atencao;Parte da produção pode se enquadrar na Cesta Básica Nacional (alíquota zero) ou redução de 60%, conforme o produto especificado em lei.
+11;Fabricação de bebidas;is_atencao;Bebidas alcoólicas e açucaradas podem estar sujeitas ao Imposto Seletivo (IS).
+12;Fabricação de produtos do fumo;is_atencao;Sujeito ao Imposto Seletivo (IS) por ser prejudicial à saúde.
+13;Fabricação de produtos têxteis;padrao;
+14;Confecção de artigos do vestuário;padrao;
+17;Fabricação de celulose, papel e produtos de papel;padrao;
+19;Fabricação de coque, produtos derivados do petróleo;combustiveis_regime_especifico;Regime específico de combustíveis (monofásico).
+20;Fabricação de produtos químicos;padrao;Verificar se há fertilizantes/defensivos agrícolas (insumos agropecuários com redução).
+21;Fabricação de produtos farmoquímicos e farmacêuticos;saude_reduzida_atencao;Medicamentos e dispositivos médicos: parte com alíquota zero, parte com redução de 60%, conforme lista de produtos (Anexo de saúde da LC 214/2025).
+22;Fabricação de produtos de borracha e de material plástico;padrao;
+23;Fabricação de produtos de minerais não metálicos;padrao;
+24;Metalurgia;padrao;
+25;Fabricação de produtos de metal;padrao;
+26;Fabricação de equipamentos de informática, produtos eletrônicos;padrao;Verificar dispositivos médicos/tecnologia assistiva (possível redução).
+27;Fabricação de máquinas, aparelhos e materiais elétricos;padrao;
+28;Fabricação de máquinas e equipamentos;padrao;
+29;Fabricação de veículos automotores;padrao;
+33;Manutenção, reparação e instalação de máquinas;padrao;
+35;Eletricidade, gás e outras utilidades;energia_regime_especifico;Regime específico para energia elétrica (não cumulatividade plena, particularidades de creditamento).
+36;Captação, tratamento e distribuição de água;saneamento_reduzida;Saneamento básico com redução de alíquota (Anexo específico da LC 214/2025).
+37;Esgoto e atividades relacionadas;saneamento_reduzida;Mesma observação da divisão 36.
+38;Coleta, tratamento e disposição de resíduos;saneamento_reduzida;Mesma observação da divisão 36.
+41;Construção de edifícios;imobiliario_regime_especifico;Incorporação imobiliária e RET (Regime Especial de Tributação) têm regras próprias de IBS/CBS.
+42;Obras de infraestrutura;imobiliario_regime_especifico;
+43;Serviços especializados para construção;padrao;
+45;Comércio e reparação de veículos automotores;padrao;
+46;Comércio por atacado;padrao;
+47;Comércio varejista;padrao;Se vender itens da Cesta Básica Nacional, aplica-se alíquota zero a esses itens.
+49;Transporte terrestre;transporte_coletivo_reduzida;Transporte público coletivo de passageiros (rodoviário/metroviário/ferroviário) tem redução de alíquota (Anexo de transporte da LC 214/2025). Transporte de cargas segue regra padrão.
+50;Transporte aquaviário;transporte_coletivo_reduzida;Transporte coletivo aquaviário de passageiros com redução; cargas seguem regra padrão.
+51;Transporte aéreo;padrao;Verificar regras específicas de transporte aéreo de passageiros.
+52;Armazenamento e atividades auxiliares dos transportes;padrao;
+53;Correio e outras atividades de entrega;padrao;
+55;Alojamento;hotelaria_turismo_reduzida;Hotelaria e parques de diversão/temáticos com redução de 60% (Anexo de turismo da LC 214/2025).
+56;Alimentação;hotelaria_turismo_reduzida;Bares, restaurantes e similares com redução de 60% (Anexo de turismo/alimentação da LC 214/2025).
+58;Edição e edição integrada à impressão;cultura_esporte_reduzida;Produções jornalísticas e editoriais com redução de 60% (Anexo de produções culturais da LC 214/2025).
+59;Atividades cinematográficas, produção de vídeos, som e música;cultura_esporte_reduzida;Produções culturais e audiovisuais com redução de 60%.
+60;Atividades de rádio e de televisão;cultura_esporte_reduzida;Produções jornalísticas/culturais com redução de 60%.
+61;Telecomunicações;padrao;
+62;Atividades dos serviços de tecnologia da informação;padrao;
+63;Atividades de prestação de serviços de informação;padrao;
+64;Atividades de serviços financeiros;financeiro_regime_especifico;Regime específico do setor financeiro (CST 010/011), base de cálculo e alíquota próprias.
+65;Seguros, resseguros, previdência complementar;financeiro_regime_especifico;Mesma observação da divisão 64.
+66;Atividades auxiliares dos serviços financeiros;financeiro_regime_especifico;Mesma observação da divisão 64.
+68;Atividades imobiliárias;imobiliario_regime_especifico;Locação, alienação e outras operações imobiliárias têm redutores de base de cálculo específicos.
+69;Atividades jurídicas, de contabilidade e de auditoria;servicos_profissionais_reduzida;Profissões intelectuais de natureza técnica, científica, desportiva ou artística sujeitas a fiscalização por conselho profissional têm redução de 30% (Anexo de serviços profissionais da LC 214/2025).
+70;Atividades de sedes de empresas e consultoria em gestão;servicos_profissionais_reduzida;Consultoria pode se enquadrar na redução de 30%, dependendo da regulamentação profissional aplicável.
+71;Serviços de arquitetura e engenharia;servicos_profissionais_reduzida;Mesma observação da divisão 69 (profissão regulamentada).
+72;Pesquisa e desenvolvimento científico;padrao;
+73;Publicidade e pesquisa de mercado;padrao;
+74;Outras atividades profissionais, científicas e técnicas;padrao;Divisão muito heterogênea (design, fotografia, tradução, consultoria em agronomia, agenciamento esportivo) — a maioria NÃO está na lista das 18 profissões do art. 127. Ver exceções por classe em cnae_classes_excecoes.csv para as que são (ex: agronomia).
+75;Atividades veterinárias;servicos_profissionais_reduzida;Profissão regulamentada (CRMV); avaliar enquadramento na redução de 30%.
+77;Aluguéis não imobiliários e gestão de ativos intangíveis;padrao;
+78;Seleção, agenciamento e locação de mão de obra;padrao;
+80;Atividades de vigilância, segurança e investigação;padrao;
+82;Serviços de escritório e apoio administrativo;padrao;
+84;Administração pública, defesa e seguridade social;adm_publica_imunidade;Imunidade recíproca (CST 410) na maior parte das atividades.
+85;Educação;educacao_reduzida;Serviços de educação com redução de 60% (Anexo de educação da LC 214/2025).
+86;Atividades de atenção à saúde humana;saude_reduzida;Serviços de saúde com redução de 60%, alguns itens podem ter tratamento ainda mais favorecido (Anexo de saúde da LC 214/2025).
+87;Atividades de atenção à saúde humana integradas com assistência social;saude_reduzida;Mesma observação da divisão 86.
+88;Serviços de assistência social sem alojamento;saude_reduzida;Mesma observação da divisão 86/87; verificar se é entidade sem fins lucrativos (imunidade adicional).
+90;Atividades artísticas, criativas e de espetáculos;cultura_esporte_reduzida;Produções artísticas com redução de 60% (Anexo de cultura da LC 214/2025).
+91;Atividades ligadas ao patrimônio cultural e ambiental;cultura_esporte_reduzida;Mesma observação da divisão 90.
+92;Atividades de exploração de jogos de azar e apostas;is_atencao;Sujeito a regras específicas e possivelmente ao Imposto Seletivo.
+93;Atividades esportivas e de recreação e lazer;cultura_esporte_reduzida;Atividades desportivas com redução de 60% (Anexo de esporte da LC 214/2025).
+94;Atividades de organizações associativas;associativa_atencao;Entidades sem fins lucrativos (associações, sindicatos) podem ter imunidade ou não incidência dependendo da atividade.
+95;Reparação e manutenção de equipamentos;padrao;
+96;Outras atividades de serviços pessoais;padrao;
+97;Serviços domésticos;fora_do_campo;Empregado doméstico não é contribuinte de IBS/CBS.
+99;Organismos internacionais e outras instituições extraterritoriais;fora_do_campo;

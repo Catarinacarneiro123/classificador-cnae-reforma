@@ -1,0 +1,22 @@
+# cTribMun — Código de Tributação Municipal
+#
+# IMPORTANTE: este código NÃO é nacional. Cada prefeitura publica sua
+# própria tabela de complementos municipais (3 dígitos) que se juntam ao
+# cTribNac (6 dígitos) para formar o código completo usado na NFS-e.
+# A tabela de Paulista/PE é diferente da de Recife/PE, que é diferente da
+# de qualquer outro município.
+#
+# Como obter a tabela oficial do seu município (ou do município de cada
+# cliente):
+#   1. Acesse o portal da prefeitura / secretaria de finanças do
+#      município (ou o suporte da NFS-e Nacional daquele município).
+#   2. Procure por "Código de Tributação Municipal" ou "cTribMun".
+#   3. Salve a planilha/arquivo como
+#      data/ctribmun/<nome-do-municipio>.csv
+#      seguindo o layout abaixo.
+#
+# Layout esperado pelo sistema: ctribmun;descricao;ctribnac_relacionado
+#
+# Este é apenas um arquivo MODELO (vazio) para você preencher com dados
+# reais do seu município. Não invente códigos aqui.
+ctribmun;descricao;ctribnac_relacionado

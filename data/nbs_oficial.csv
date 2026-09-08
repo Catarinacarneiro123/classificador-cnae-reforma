@@ -1,0 +1,31 @@
+# NBS — dados REAIS extraídos do Anexo I da Nomenclatura Brasileira de
+# Serviços (NBS 2.0), Portaria Conjunta RFB/SCS, capítulos 9, 10, 13, 14
+# e 15 (financeiro, imobiliário, jurídico/contábil, profissionais e TI).
+# ESTA É UMA TABELA PARCIAL — a NBS completa tem mais de 1.000 itens em
+# 26 capítulos; aqui só estão os capítulos mais relevantes para serviços
+# profissionais/contábeis, extraídos ao vivo do PDF oficial em 08/09/2026:
+# https://www.gov.br/mdic/pt-br/images/REPOSITORIO/scs/decos/NBS/Anexoa_Ia_NBSa_2.0a_coma_alteraa_esa_6.12.18.pdf
+# Para os demais capítulos (educação, saúde, cultura, etc.), baixe o PDF
+# acima e complemente este arquivo, ou rode a sincronização quando tiver
+# a planilha completa em CSV.
+nbs;descricao;item_lc116_correlato;versao_it;fonte
+1.1301.10.00;Serviços de representação e consultoria jurídica criminal;;NBS 2.0;oficial - Anexo I NBS (Portaria Conjunta RFB/SCS)
+1.1301.20.00;Serviços de representação e consultoria jurídica em outras áreas do direito, exceto consultoria tributária;;NBS 2.0;oficial - Anexo I NBS (Portaria Conjunta RFB/SCS)
+1.1301.30.00;Serviços de documentação e certificação, exceto os serviços notariais e de registro;;NBS 2.0;oficial - Anexo I NBS (Portaria Conjunta RFB/SCS)
+1.1301.40.00;Serviços de arbitragem, conciliação e mediação;;NBS 2.0;oficial - Anexo I NBS (Portaria Conjunta RFB/SCS)
+1.1301.90.00;Serviços jurídicos não classificados em subposições anteriores;;NBS 2.0;oficial - Anexo I NBS (Portaria Conjunta RFB/SCS)
+1.1302.11.00;Serviços de auditoria contábil;;NBS 2.0;oficial - Anexo I NBS (Portaria Conjunta RFB/SCS)
+1.1302.19.00;Serviços de auditoria não classificados em subposições anteriores;;NBS 2.0;oficial - Anexo I NBS (Portaria Conjunta RFB/SCS)
+1.1302.21.00;Serviços de contabilidade;;NBS 2.0;oficial - Anexo I NBS (Portaria Conjunta RFB/SCS)
+1.1302.22.00;Serviços de escrituração mercantil;;NBS 2.0;oficial - Anexo I NBS (Portaria Conjunta RFB/SCS)
+1.1302.23.00;Serviços de folha de pagamento;;NBS 2.0;oficial - Anexo I NBS (Portaria Conjunta RFB/SCS)
+1.1303.10.00;Serviços de consultoria tributária para pessoas jurídicas;;NBS 2.0;oficial - Anexo I NBS (Portaria Conjunta RFB/SCS)
+1.1303.20.00;Serviços de consultoria tributária para pessoas físicas;;NBS 2.0;oficial - Anexo I NBS (Portaria Conjunta RFB/SCS)
+1.1304.00.00;Serviços notariais e de registro;;NBS 2.0;oficial - Anexo I NBS (Portaria Conjunta RFB/SCS)
+1.1401.11.00;Serviços de consultoria em gestão estratégica;;NBS 2.0;oficial - Anexo I NBS (Portaria Conjunta RFB/SCS)
+1.1401.12.00;Serviços de consultoria em gestão financeira;;NBS 2.0;oficial - Anexo I NBS (Portaria Conjunta RFB/SCS)
+1.1401.13.00;Serviços de consultoria em gestão de recursos humanos;;NBS 2.0;oficial - Anexo I NBS (Portaria Conjunta RFB/SCS)
+1.1501.10.00;Serviços de consultoria em tecnologia da informação (TI);;NBS 2.0;oficial - Anexo I NBS (Portaria Conjunta RFB/SCS)
+1.1501.20.00;Serviços de segurança em tecnologia da informação (TI);;NBS 2.0;oficial - Anexo I NBS (Portaria Conjunta RFB/SCS)
+1.0910.10.00;Serviços de planos privados de assistência à saúde;;NBS 2.0;oficial - Anexo I NBS (Portaria Conjunta RFB/SCS)
+1.1405.11.00;Serviços hospitalares, com ou sem internação, para animais domésticos;;NBS 2.0;oficial - Anexo I NBS (Portaria Conjunta RFB/SCS)

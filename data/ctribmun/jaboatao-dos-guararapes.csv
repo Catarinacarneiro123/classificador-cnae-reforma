@@ -1,0 +1,9 @@
+# cTribMun — Jaboatão dos Guararapes/PE (código IBGE 2607901)
+# Situação: habilitado no ambiente nacional apenas para CONSULTA;
+# emissão continua pelo sistema próprio do município (não usa o
+# Emissor Nacional). Nenhuma tabela pública de códigos foi localizada
+# na consulta de 08/09/2026 — confirme com a Prefeitura ou com uma nota
+# já emitida. Ver docs/MUNICIPIOS_REGIAO_METROPOLITANA.md.
+#
+# Layout: ctribmun;descricao;ctribnac_relacionado;fonte
+ctribmun;descricao;ctribnac_relacionado;fonte

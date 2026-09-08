@@ -1,0 +1,16 @@
+# cIndOp — Código Indicador de Operação
+#
+# Tabela oficial com 43 indicadores (Anexo VII da documentação técnica da
+# NFS-e Nacional). Identifica a CARACTERÍSTICA e o LOCAL da operação
+# (ex: operação interna, interestadual, com consumidor final, com/sem
+# imóvel envolvido, etc.) — não confundir com CST ou cClassTrib.
+#
+# Este arquivo é apenas um EXEMPLO ESTRUTURAL — não use estes códigos em
+# nota fiscal real. A tabela completa (Anexo VII) deve ser importada
+# oficialmente a partir da documentação técnica da NFS-e Nacional:
+# https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica
+#
+# Layout esperado pelo sistema: cindop;descricao
+cindop;descricao
+01;Operação interna, tributação regular (EXEMPLO)
+05;Operação com imóvel envolvido (EXEMPLO)

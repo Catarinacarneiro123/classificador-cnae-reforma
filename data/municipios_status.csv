@@ -1,0 +1,4 @@
+municipio;codigo_ibge;emissor;alerta_operacional;fonte_data_consulta
+Recife/PE;2611606;Emissor Nacional (aderiu via Portaria SEFIN 12/2026);Lista de serviços segue o art. 102 do CTMR (Lei Municipal 15.563/1991). Alguns serviços exigem informar valores repassados a terceiros na NFS-e (táxi, turismo, publicidade, bingo, salões-parceiros).;08/09/2026
+Olinda/PE;2609600;Sistema próprio integrado ao layout nacional (desde 22/12/2025);ATENÇÃO: preencher apenas o campo NBS na seção Reforma Tributária da nota - preencher CST/cClassTrib/cTribMun pode gerar erro de validação no provedor da prefeitura. Reconfirme periodicamente.;08/09/2026
+Jaboatão dos Guararapes/PE;2607901;Sistema próprio (não usa o Emissor Nacional - apenas compartilha dados para consulta no ambiente nacional);Nenhuma tabela pública de códigos de tributação municipal foi localizada - confirmar com a Prefeitura ou com nota já emitida.;08/09/2026

@@ -1,0 +1,21 @@
+setor_reforma;cst_sugerido;cclasstrib_sugerido;percentual_reducao_provavel;base_legal_referencia;nivel_confianca;exige_revisao_manual
+padrao;000;000001;0%;LC 214/2025 - regra geral (Tributação integral);alto;nao
+agropecuario_atencao;200;200036 ou 200038;60% (insumos, Anexo IX) ou alíquota zero (produto in natura);LC 214/2025 - Anexo IX (insumos) / produtos in natura;medio;sim
+cesta_basica_atencao;200;200034;alíquota zero (Cesta Básica Nacional - Anexo VII);LC 214/2025 - Anexo VII;medio;sim
+is_atencao;000 (Imposto Seletivo é apurado à parte, não é CST de IBS/CBS);;Imposto Seletivo (IS) incide além do IBS/CBS;LC 214/2025 - regras do Imposto Seletivo;baixo;sim
+combustiveis_regime_especifico;620;620001;Tributação monofásica - alíquota específica por unidade de medida;LC 214/2025 - regime monofásico de combustíveis;alto;sim
+saude_reduzida_atencao;200;200004 ou 200009 ou 200030 ou 200032 ou 200053;60% ou alíquota zero (varia por item - dispositivo médico Anexo IV/XII ou medicamento);LC 214/2025 - Anexos IV/XII (dispositivos) e medicamentos Anvisa;medio;sim
+saneamento_reduzida;200;(código específico de saneamento não localizado na consulta - confirmar);a confirmar;LC 214/2025 - Anexo de saneamento básico (verificar);baixo;sim
+imobiliario_regime_especifico;200 ou 220/221;200046 (geral) / 220001-220003 e 221001-221004 (incorporação/locação com regime especial);Redução de base de cálculo (percentual e regras próprias);LC 214/2025 - regime específico de operações imobiliárias;medio;sim
+transporte_coletivo_reduzida;200;200049;60% (rodoviário/ferroviário/hidroviário) - conferir 400001/400002 para alíquota zero em casos específicos;LC 214/2025 - transporte público coletivo;alto;sim
+hotelaria_turismo_reduzida;200;200048 (hotelaria) ou 200047 (bares/restaurantes) ou 200051 (agências de turismo);60%;LC 214/2025 - setor de turismo;alto;sim
+cultura_esporte_reduzida;200;200039 (cultura/produções artísticas) ou 200041/200042 (desporto);60%;LC 214/2025 - Anexo X (cultura) / art. 141 (desporto);alto;sim
+financeiro_regime_especifico;010;010002;Regime próprio de alíquotas uniformes (setor financeiro);LC 214/2025 - regime específico de serviços financeiros;alto;sim
+servicos_profissionais_reduzida;200;200052;30% (Prestação de serviços de profissões intelectuais - confirmado na tabela oficial);LC 214/2025 - profissões intelectuais regulamentadas por conselho;alto;sim
+adm_publica_imunidade;410;410005;Imunidade (não incidência) - fornecimentos pela União/Estados/DF/Municípios;Constituição Federal - imunidade recíproca;alto;sim
+educacao_reduzida;200;200028;60%;LC 214/2025 - Anexo II (educação);alto;sim
+saude_reduzida;200;200029;60%;LC 214/2025 - Anexo III (serviços de saúde humana);alto;sim
+associativa_atencao;410;410006 (entidades religiosas) ou 410007 (partidos/sindicatos/educação/assistência social);Imunidade se sem fins lucrativos e atividade própria - tributação normal se atividade econômica;LC 214/2025 e Constituição Federal;medio;sim
+fora_do_campo;410;410999;Não é contribuinte / fora do campo de incidência;LC 214/2025 - definição de contribuinte;baixo;sim
+educacao_fisica_art127;200 ou 000 (depende da operação);200052 (se serviço pessoal do profissional) ou 000001 (se acesso a estrutura/aulas em grupo);30% (art. 127, X) SE for serviço pessoal do profissional de educação física fiscalizado pelo CREF — senão 0% (tributação integral);LC 214/2025, art. 127, X e §3º - fontes divergem sobre se a atividade de academia/CrossFit/pilates como estabelecimento se enquadra (ver docs/CNAES_AMBIGUOS.md). Confirme se a operação é serviço pessoal do profissional (reduzido) ou acesso genérico à estrutura/aulas em grupo (integral);baixo;sim
+ensino_esportes_ambiguo;200 (a confirmar);200028 ou 200052 (AMBÍGUO - confirmar);60% (se educação, art. 129/Anexo II) ou 30% (se profissional de educação física, art. 127, X) - NÃO RESOLVIDO;LC 214/2025 - ambíguo entre art. 129 (educação) e art. 127, X (educação física) - confirmar com base em orientação da Receita Federal/Comitê Gestor ou jurisprudência administrativa;baixo;sim

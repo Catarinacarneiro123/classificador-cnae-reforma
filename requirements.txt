@@ -1,0 +1,10 @@
+# requests — necessário só para src/verificar_atualizacoes.py (checagem
+# automática de mudanças nas tabelas oficiais). Instale com:
+#   pip install requests --break-system-packages
+requests
+
+# Demais dependências opcionais, se você expandir o projeto:
+# pandas       # para manipular tabelas grandes com mais facilidade
+# openpyxl     # para ler/gerar arquivos .xlsx (planilha oficial em Excel)
+# streamlit    # para transformar isso numa telinha web simples
+# beautifulsoup4  # se quiser um parsing de HTML mais robusto que regex

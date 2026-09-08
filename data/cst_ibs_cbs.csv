@@ -1,0 +1,19 @@
+cst;descricao;grupo;fonte_confirmada
+000;Tributação integral;Tributação e formação da alíquota;sim
+010;Tributação com alíquotas uniformes (operações do setor financeiro);Tributação e formação da alíquota;sim
+011;Tributação com alíquotas uniformes reduzidas em 60% ou 30%;Tributação e formação da alíquota;sim
+200;Alíquota zero / alíquota reduzida (percentuais variam: 30% a 80% conforme o bem ou serviço);Reduções e alíquota zero;sim
+220;Alíquota fixa;Reduções e regimes específicos;sim
+221;Alíquota fixa proporcional;Reduções e regimes específicos;sim
+222;Redução de base de cálculo;Reduções e regimes específicos;sim
+400;Isenção;Desonerações;sim
+410;Imunidade e não incidência;Desonerações;sim
+510;Diferimento;Diferimento e suspensão;sim
+515;Diferimento com redução de alíquota;Diferimento e suspensão;sim
+550;Suspensão;Diferimento e suspensão;sim
+620;Tributação monofásica;Regimes específicos;sim
+800;Transferência de crédito;Créditos e ajustes;sim
+810;Ajustes de IBS na Zona Franca de Manaus (ZFM);Créditos e ajustes;sim
+811;Ajustes (demais);Créditos e ajustes;sim
+820;Tributação em documento específico;Casos especiais;sim
+830;Exclusão de base de cálculo;Casos especiais;sim

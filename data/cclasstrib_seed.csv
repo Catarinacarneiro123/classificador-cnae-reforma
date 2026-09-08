@@ -1,0 +1,8 @@
+cclasstrib;cst;descricao;versao_it;fonte
+000001;000;Tributação integral - operação padrão (EXEMPLO - substituir pela tabela oficial);exemplo;seed
+010001;010;Operação do setor financeiro com alíquota uniforme (EXEMPLO - substituir pela tabela oficial);exemplo;seed
+200001;200;Alíquota reduzida em 60% (EXEMPLO - substituir pela tabela oficial - confirmar percentual e item exato);exemplo;seed
+200002;200;Alíquota reduzida - dispositivo médico/medicamento (EXEMPLO - substituir pela tabela oficial);exemplo;seed
+400001;400;Isenção (EXEMPLO - substituir pela tabela oficial);exemplo;seed
+410001;410;Imunidade / não incidência (EXEMPLO - substituir pela tabela oficial);exemplo;seed
+620001;620;Tributação monofásica de combustíveis (EXEMPLO - substituir pela tabela oficial);exemplo;seed

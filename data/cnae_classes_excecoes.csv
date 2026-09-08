@@ -1,0 +1,11 @@
+# Exceções por CLASSE de CNAE (5 primeiros dígitos, sem o dígito
+# verificador) — checadas ANTES da regra por divisão (2 dígitos), para
+# os casos em que uma classe específica foge do padrão do resto da
+# divisão. Ex: dentro da divisão 93 (esportes/recreação, 60% via art.
+# 141), a classe 93.13-1 (condicionamento físico: academias, personal
+# trainers, pilates, crossfit) segue na verdade o art. 127, inciso X
+# (educação física, 30%) com a dispensa do §3º para pessoa jurídica.
+#
+# Layout: classe;descricao_classe;setor_reforma;observacao
+classe;descricao_classe;setor_reforma;observacao
+93131;Atividades de condicionamento físico (academias, personal trainers, pilates, crossfit, hidroginástica);educacao_fisica_art127;LC 214/2025, art. 127, X e §3º: profissionais de educação física - pessoa jurídica é DISPENSADA dos 5 requisitos do §1º/§2º, desde que a empresa seja fiscalizada pelo CREF (Conselho Regional de Educação Física). Fonte: texto do art. 127, consultado em 08/09/2026.

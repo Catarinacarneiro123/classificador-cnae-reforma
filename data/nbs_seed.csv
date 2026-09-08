@@ -1,0 +1,16 @@
+# NBS — Nomenclatura Brasileira de Serviços
+#
+# Tabela oficial com mais de 1.000 itens, mantida pela Receita Federal.
+# Identifica QUAL serviço está sendo prestado (não confundir com CST/cClassTrib,
+# que identificam a SITUAÇÃO TRIBUTÁRIA do serviço).
+#
+# Este arquivo é apenas um EXEMPLO ESTRUTURAL — não use estes códigos em
+# nota fiscal real. A tabela completa deve ser importada oficialmente:
+# consulte a correlação NBS x Lista de Serviços (LC 116/2003) na
+# documentação técnica do Portal Nacional da NFS-e:
+# https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica
+#
+# Layout esperado pelo sistema: nbs;descricao;item_lc116_correlato
+nbs;descricao;item_lc116_correlato
+1.0101;Serviços de consultoria em tecnologia da informação (EXEMPLO);1.06
+1.1201;Serviços de contabilidade e auditoria (EXEMPLO);17.19

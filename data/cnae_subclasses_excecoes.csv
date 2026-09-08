@@ -1,0 +1,11 @@
+# Exceções por SUBCLASSE COMPLETA de CNAE (7 dígitos) — checadas ANTES
+# da classe (5 dígitos) e da divisão (2 dígitos). Necessário porque
+# dentro de uma mesma classe (5 dígitos) pode haver subclasses com
+# tratamento tributário bem diferente. Ex: a classe 74.90-1 mistura
+# tradução (não é profissão do art. 127) com agronomia (é, via
+# "engenheiros e agrônomos", inciso XI do art. 127).
+#
+# Layout: cnae;descricao;setor_reforma;observacao
+cnae;descricao;setor_reforma;observacao
+7490103;Serviços de agronomia e de consultoria às atividades agrícolas e pecuárias;servicos_profissionais_reduzida;Engenheiros agrônomos estão no inciso XI do art. 127 da LC 214/2025 (redução de 30%, cClassTrib 200052) — mas confirme se quem presta o serviço é engenheiro agrônomo habilitado (CREA), não apenas um consultor sem essa formação.
+8591100;Ensino de esportes (escolinhas/aulas de natação, futebol, artes marciais, tênis, etc.);ensino_esportes_ambiguo;AMBÍGUO — não encontramos fonte que resolva com certeza se este CNAE segue a redução de 60% da educação (art. 129, Anexo II) ou a de 30% de profissional de educação física (art. 127, X). Depende de como a atividade é estruturada (curso/escola formal x serviço pessoal do profissional). Confirme antes de aplicar.

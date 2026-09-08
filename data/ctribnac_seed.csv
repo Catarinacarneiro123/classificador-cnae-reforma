@@ -1,0 +1,18 @@
+# cTribNac — Código de Tributação Nacional
+#
+# Tabela oficial com 338 códigos (NFS-e Nacional). Desdobra os 200
+# subitens da Lista de Serviços da LC 116/2003 em códigos de 5-6 dígitos
+# (item + subitem + desdobro), cada um com a regra oficial de em qual
+# município o ISS é devido. Este código é o que identifica o SERVIÇO na
+# NFS-e Nacional para fins de ISS — é diferente do cClassTrib, que trata
+# do IBS/CBS.
+#
+# Este arquivo é apenas um EXEMPLO ESTRUTURAL — não use estes códigos em
+# nota fiscal real. A tabela completa deve ser importada oficialmente a
+# partir da documentação técnica da NFS-e Nacional:
+# https://www.gov.br/nfse/pt-br/biblioteca/documentacao-tecnica
+#
+# Layout esperado pelo sistema: ctribnac;descricao;item_lc116;municipio_iss_devido
+ctribnac;descricao;item_lc116;municipio_iss_devido
+170101;Serviços de assessoria/consultoria em geral (EXEMPLO);17.01;Domicílio do prestador (regra geral - confirmar exceções)
+171901;Serviços de contabilidade, auditoria e perícia contábil (EXEMPLO);17.19;Domicílio do prestador (regra geral - confirmar exceções)
